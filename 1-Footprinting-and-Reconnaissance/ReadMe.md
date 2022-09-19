@@ -1,6 +1,6 @@
 # <u> Reconnaissance and Footprinting</u>
 
-> ⚡︎ **This chapter have Created by Engineer Amin Agrebi [Whatsapp](https://api.whatsapp.com/send?phone=21621804505)**
+> ⚡︎ **This chapter have Created by Engineer Ameen Alaquarbi [Whatsapp](https://api.whatsapp.com/send?phone=21621804505)**
 
 ## <u>Footprinting</u>
 Footprinting is a part of reconnaissance process which is used for gathering possible information about a target computer system or network. 
